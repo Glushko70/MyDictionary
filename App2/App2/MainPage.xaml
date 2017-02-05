@@ -3,9 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:App2"
              x:Class="App2.MainPage">
-
-  <Label Text="Welcome to Xamarin Forms!"
-           VerticalOptions="Center"
-           HorizontalOptions="Center" />
+  
+  <StackLayout x:Name="stackLayout">    
+    <Button x:Name="button1"  Text="Добавити слово" FontSize="Large" Clicked="button1_Click"/>
+    <Button x:Name="button2"  Text="Карточки" FontSize="Large" Clicked="button2_Click"/>
+    <Button x:Name="button3"  Text="Пошук" FontSize="Large" Clicked="button3_Click"/>
+    <Button x:Name="button5"  Text="Мій словник" FontSize="Large" Clicked="button5_Click"/>
+    <Button x:Name="button4"  Text="Неправильні дієслова" FontSize="Large" Clicked="button4_Click"/>    
+  </StackLayout>
 
 </ContentPage>

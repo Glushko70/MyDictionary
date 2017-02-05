@@ -1,0 +1,256 @@
+﻿Broadcast ['brɔ:dka:st]	broadcast 	broadcast 
+Транслювати,передавати
+cost [cɔst]	cost [cɔst]	cost [cɔst]	
+Коштувати
+bust [bʌst]	bust [bʌst]	bust [bʌst]	
+Зламати, руйнувати
+cut [kʌt]	cut [kʌt]	cut [kʌt]	
+Різати
+burst [bз:st]	burst [bз:st]	Burst [bз:st]	
+Вибухнути, нагрянути
+fit [fit]	fit [fit]	fit [fit]	
+Підходити по розміру
+hit [hit]	hit [hit]	hit [hit]	
+Попадати в ціль
+hurt [hз:t]	hurt [hз:t]	hurt [hз:t]	
+Забити
+let [let]	let [let]	let [let]	
+Дозволяти
+put [put]	put [put]	put [put]	
+Положити
+set [set]	set [set]	set [set]	
+Ставити
+shut [ʃʌt]	shut [ʃʌt]	shut [ʃʌt]	
+Закривати
+wet [wet]	wet [wet]	wet [wet]	
+Мочити
+spread [spred]	spread [spred]	spread [spred]	
+Розстеляти
+quit [kwit]	quit [kwit]	quit [kwit]	
+Виходити
+bend [bend]	bent [bent]	bent [bent]	
+Згинат; гнути
+build [bild]	built [bilt]	built [bilt]	
+Будувати
+lend [lend]	lent [lent]	lent [lent]	
+Позичати
+send [send]	sent [sent]	sent [sent]	
+Посилати
+spend [spend]	spent [spent]	spent [spent]	
+Тратити
+burn [bз:n]	burnt [bз:nt]	burnt [bз:nt]	
+Горіти
+learn [lз:n]	learnt [lз:nt]	learnt [lз:nt]	
+Вчити
+smell [smel]	smelt [smelt]	smelt [smelt]	
+Відчувати запах
+spill [spil]	spilt [spilt]	spilt [spilt]	
+Проливати
+spoil [spɔil]	spoilt [spɔilt]	spoilt [spɔilt]	
+Портити
+spell [spel]	spelt [spelt]	spelt [spelt]	
+Вимовлятии по буквах
+bleed [bli:d]	bled [bled]	bled [bled]	
+Кровоточити
+breed [bri:d]	bred [bred]	bred [bred]	
+Виховувати ,виносити
+creep [kri:p]	crept [krept]	crept [krept]	
+Повзати
+dream [dri:m]	dreamt [dremt]	dreamt [dremt]	
+Мріяти, дрімати
+feed [fi:d]	fed [fed]	fed [fed]	
+Годувати
+feel [fi:l]	felt [felt]	felt [felt]	
+Відчувати
+keep [ki:p]	kept [kept]	kept [kept]	
+Утримувати
+kneel [ni:l]	knelt [nelt]	knelt [nelt]	
+Стояти на колінах
+lean [li:n]	leant [lent]	leant [lent]	
+Нахилятися
+mean [mi:n]	meant [ment]	meant [ment]	
+Значити
+leave [li:v]	left [left]	left [left]	
+Залишати
+meet [mi:t]	met [met]	met [met]	
+Зустрічати
+sleep [sli:p]	slept [slept]	slept [slept]	
+Спати
+weep [wi:p]	wept [wept]	wept [wept]	
+Плакати
+sweep [swi:p]	swept [swept]	swept [swept]	
+Вимітати
+lose [lu:z]	lost [lɔst]	lost [lɔst]	
+Губити
+bring [briŋ]	brought [brɔ:t]	brought [brɔ:t]	
+Приносити
+buy [bai]	bought [bɔ:t]	bought [bɔ:t]	
+Купляти
+catch [kætʃ]	caught [kɔ:t]	caught [kɔ:t]	
+Ловити, хапати, встигати
+fight [fait]	fought [fɔ:t]	fought [fɔ:t]	
+Боротися
+seek [si:k]	sought [sɔ:t]	sought [sɔ:t]	
+Шукати
+teach [ti:tʃ]	taught [tɔ:t]	taught [tɔ:t]	
+Вчити
+think [θiŋk]	thought [θɔ:t]	thought [θɔ:t]	
+Думати
+Sell [sel]	sold [sould]	sold [sould]	
+Продавати
+tell [tel]	told [tould]	told [tould]	
+Розказувати
+get [ get ]	got [gɔt]	got [gɔt]	
+Получати
+Say [sei]	said [sed]	said [sed]		
+Говорити
+Pay [pei]	paid [peid]	paid [peid]		
+Платити
+make [meik]	made [meid]	made [meid]		
+Виробляти
+Read [ri:d]	read [red]	read [red]		
+Читати
+lay [lei]	laid [leid]	laid [leid]		
+Класти
+bind [baind]	bound [baund]	bound [baund]	
+Вязати; звязувати
+find [faind]	found [faund]	found [faund]	
+Знаходити
+wind [waind]	wound [waund]	wound [waund]	
+Звиватися
+be [bi:]	was [wɔz], were [wз:]	been [bi:n]	
+Бути
+have [hæv]	had [hæd]	had [hæd]	
+Мати
+do [du:]	did [did]	done [dʌn]	
+Робити
+go [gou]	went [went]	gone [gɔn]	
+Іти
+eat [i:t]	ate [et]	eaten ['i:tn]	
+Їсти
+fall [fɔ:l]	fell [fel]	fallen ['fɔ:lən]	
+Падати
+forget [fə'get]	forgot [fə'gɔt]	forgotten [fə'gɔt(ə)n]	
+Забувати
+lie [lai]	lay [lei]	lain [lein]	
+Лежати
+See [si:]	saw [sɔ:]	seen [si:n]	
+Бачити
+hang [hæŋ]	hung [hʌŋ]	hung [hʌŋ]	
+Висіти, розвішувати
+lead [li:d]	led [led]	led [led]	
+Вести
+sit [sit]	sat [sæt]	sat [sæt]	
+Сидіти
+hear [hiə]	heard [hз:d]	heard [hз:d]	
+Чути
+hold [hould]	held [held]	held [held]	
+Тримати
+stand [stænd]	stood [stu:d]	stood [stu:d]	
+Стояти
+understand [ʌndə'stænd]	understood [ʌndə'stud]	understood [ʌndə'stud]	
+Розуміти
+swing [swiŋ]	swung [swʌŋ]	swung [swʌŋ]	
+Качати
+win [win]	won [wʌn]	won [wʌn]	
+Вигравати
+sting [stiŋ]	stung [stʌŋ]	stung [stʌŋ]	
+Жалити
+stick [stik]	stuck [stʌk]	stuck [stʌk]	
+Колоти
+light [lait]	lit [lit]	lit [lit]	
+Освітлювати
+slide [slaid]	slid [slid]	slid [slid]	
+Ковзати
+awake [ə'weik]	awoke [ə'wəuk]	awoken [ə'wəukən]	
+Будити
+break [breik]	broke [brouk]	broken ['brouk(e)n]	
+Ламати
+choose [tʃu:z]	chose [ʃəuz]	chosen [tʃəuz(ə)n]	
+Вибирати
+speak [spi:k]	spoke [spouk]	spoken ['spouk(e)n]	
+Говорити
+steal [sti:l]	stole [stoul]	stolen ['stəulən]	
+Красти
+wake [weik]	woke [wouk]	woken ['wouk(e)n]	
+Просинатися
+freeze [fri:z]	froze [frouz]	frozen ['frouzn]	
+Замерзати
+arise [ə'raiz]	arose [ə'rəuz]	arisen [ə'riz(ə)n]	
+Виникати, появлятися
+drive [draiv]	drove [drouv]	driven ['drivn]	
+Водити
+Ride [raid]	rode [roud]	ridden ['ridn]	
+Ездити верхом
+Rise [raiz]	rose [rouz]	risen ['rizn]	
+Підніматися
+write [rait]	wrote [rout]	written ['ritn]	
+Писати
+bite [bait]	bit [bit]	bitten ['bitn]	
+Кусати, жалити
+hide [haid]	hid [hid]	hidden ['hidn]	
+Ховати
+beat [bi:t]	beat [bi:t]	beaten ['bi:tn]	
+Бити
+browbeat ['braubi:t]	browbeaten ['braubi:tn]	browbeaten ['braubi:tn]	
+Залякувати, лякати
+blow [blou]	blew [blu:]	blown [bloun]	
+Дути
+draw [drɔ:]	drew [dru:]	drawn [drɔ:n]	
+Малювати, тягти
+fly [flai]	flew [flu:]	flown [floun]	
+Літати
+grow [grou]	grew [gru:]	grown [groun]	
+Рости
+know [nou]	knew [nju:]	known [noun]	
+Знати
+throw [θrəu]	threw [θru:]	thrown [θrəun]	
+Кидати
+Sew [sou]	sewed [soud]	sewn [soun]	
+Шити
+show [ʃəu]	showed [ʃəud]	shown [ʃəun]	
+Показувати
+Sow [sou]	sowed [soud]	sown [soun]	
+Сіяти
+prove [pru:v]	proved [pru:vd]	proven [pru:vn]	
+Доказувати
+swell [swel]	swelled [sweld]	swollen ['swoul(e)n]	
+Розбухати
+begin [bi'gin]	began [bi'gæn]	begun [bi'gʌn]	
+Починати
+drink [driŋk]	drank [dræŋk]	drunk [drʌŋk]	
+Пити
+ring [riŋ]	rang [ræŋ]	rung [rʌŋ]	
+Дзвеніти
+Run [rʌŋ]	Ran [ræŋ]	run [rʌŋ]	
+Бігти
+shrink [ʃriŋk]	shrank [ʃræŋk]	shrunk [ʃrʌŋk]	
+Зменшувати
+sing [siŋ]	sang [sæŋ]	sung [sʌŋ]	
+Співати
+sink [siŋk]	sank [sæŋk], sunk [sʌŋk]	sunk [sʌŋk]	
+Тонути
+spring [spriŋ]	sprang [spræŋ]	sprung [sprʌŋ]	
+Скакати
+swim [swim]	swam [swem]	swum [swʌm]	
+Плавати
+become [bi:kʌm]	became [bi:keim]	become[bi:kʌm]	
+Становитися
+come [kʌm]	came [keim]	come [kʌm]	
+Приходити
+mistake [mis'teik]	mistook [mis'tuk]	mistaken [mis'teik(e)n]	
+Помилятися
+take [teik]	took [tuk]	taken ['teik(ə)n]	
+Брати, взяти
+shake [ʃeik]	shook [ʃuk]	shaken ['ʃeik(ə)n]	
+Струшувати
+bear [bɛə]	bore [bɔ:]	born [bɔ:n]	
+Носити
+tear [tɛə]	tore [tɔ:]	torn [tɔ:n]	
+Рвати
+wear [wɛə]	wore [wɔ:]	worn [wɔ:n]	
+Носити
+forgive [fo'giv]	forgave [fo'geiv]	forgiven [fo'givn]	
+Прощати
+give [giv]	gave [geiv]	given [givn]	
+Давати

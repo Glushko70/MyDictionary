@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.AddWord">
+  <StackLayout>
+    <Label x:Name="label1" Text="Введіть англійське слово" FontSize="Large" />
+    <Editor x:Name="Edit1" HeightRequest="60" />
+    <Label x:Name="label2" Text="Введіть переклад" />
+    <Editor x:Name="Edit2" HeightRequest="50" />
+    <Button x:Name="button1" Text="Добавити" FontSize="Large" Clicked="Button1_Click" />
+    <Button x:Name="button2" Text="Назад" FontSize="Large" Clicked="Button2_Click" />
+  </StackLayout>
+</ContentPage>

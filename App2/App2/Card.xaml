@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.Card">
+  <StackLayout>
+    <Button x:Name="button5"  Text="English-Ukraine" FontSize="Large" Clicked="button5_Click"/>
+    <Label x:Name="label3" Text="Карточка номер " FontSize="Medium" HorizontalOptions="Center"  />
+    <Label x:Name="label1" Text="English word" FontSize="Large" HorizontalOptions="Center"  />
+    <Label x:Name="label2" Text="Tanslate" FontSize="Large" HorizontalOptions="Center"  />
+    <Button x:Name="button4" Text="Переклад" FontSize="Large"  Clicked="Button4_Click"/>
+    <Button x:Name="button2" Text="Наступна карточка" FontSize="Large" Clicked="Button2_Click"/>
+    <Button x:Name="button3" Text="Попередня карточка" FontSize="Large" Clicked="Button3_Click"/>
+    <Button x:Name="button6" Text="Перенести в мій словник" FontSize="Large" Clicked="Button6_Click"/>
+    <Button x:Name="button1" Text="Меню" FontSize="Large" Clicked="Button1_Click"/>    
+  </StackLayout>
+</ContentPage>

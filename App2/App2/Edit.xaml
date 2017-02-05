@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.Edit">
+  <StackLayout>
+    <Editor x:Name="Edit1" HeightRequest="50" />
+    <Editor x:Name="Edit2" HeightRequest="50" />
+    <Button x:Name="button1" Text="Зберегти зміни" FontSize="Large" Clicked="Button1_Click" />
+  </StackLayout>
+</ContentPage>
