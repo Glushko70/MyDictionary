@@ -121,6 +121,11 @@ namespace App2
                 }
             }
         }
+        /// <summary>
+        /// Перенесення слів з карточок до мого словника
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private async void Button6_Click(object sender, EventArgs e)
         {
             MyLibrary data = new MyLibrary();
